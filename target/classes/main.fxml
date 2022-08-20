@@ -73,7 +73,7 @@
                             <HBox alignment="CENTER" spacing="10.0">
                                 <Text text="IR:" visible="false" />
                                 <TextField fx:id="irFX" editable="false" prefWidth="50.0" visible="false" />
-                                <Text text="AC (HEX) :" />
+                                <Text text="AC (DEC) :" />
                                 <TextField fx:id="acFX" editable="false" prefHeight="25.0" prefWidth="170.0" />
                                 <Text text="DR:" visible="false" />
                                 <TextField fx:id="drFX" editable="false" prefWidth="50.0" visible="false" />
@@ -206,7 +206,7 @@
                                                                 <PropertyValueFactory property="instruction" />
                                                             </cellValueFactory>
                                                         </TableColumn>
-                                                        <TableColumn maxWidth="-Infinity" minWidth="100.0" prefWidth="-1.0" text="Value">
+                                                        <TableColumn  maxWidth="-Infinity" minWidth="100.0" prefWidth="-1.0" text="Value">
                                                             <cellValueFactory>
                                                                 <PropertyValueFactory property="bin" />
                                                             </cellValueFactory>

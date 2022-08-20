@@ -13,7 +13,6 @@ public class Utilities {
     private Utilities() {
     }
 
-
     /**
      * @param value  Integer to convert to a hexadecimal {@link String}.
      * @param digits Integer number of hexadecimal digits the hexadecimal {@link String} should contain.

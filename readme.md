@@ -2,7 +2,7 @@
 
 > An assembler and hardware simulator for the Basic Computer, a 16 bit computer.
 
-<img src="C:\Users\Prashant\Pictures\Capture.png">
+<img src="Capture.png">
 
 This is a JavaFX application that compiles assembly code for and runs a simulation of Computer as detailed in:
 
