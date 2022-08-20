@@ -16,9 +16,18 @@ Chapter 5, pp 123-172.
 Make sure you have Java and JavaFX installed. Some Java installations bundle JavaFX, but some do not.
 
 
-## Packages
+## Download Here:
 
-Download Simulator here: https://github.com/TECHPRASANT/co-simulator/releases/download/CO/CO.Simulator_Kist_Prashant.jar
+ https://github.com/TECHPRASANT/co-simulator/releases/download/CO/CO.Simulator_Kist_Prashant.jar
+
+
+## How to use?
+
+Watch the below Videos:
+
+https://youtu.be/yJqr4CHBTTc
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yJqr4CHBTTc/0.jpg)](https://www.youtube.com/watch?v=yJqr4CHBTTc)
 
 
 ## Simulator Examples:
