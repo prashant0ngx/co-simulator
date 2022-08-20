@@ -23,7 +23,7 @@ Make sure you have Java and JavaFX installed. Some Java installations bundle Jav
 
 ## How to use?
 
-Watch the below Videos:
+Watch the below demo video :
 
 https://youtu.be/yJqr4CHBTTc
 
