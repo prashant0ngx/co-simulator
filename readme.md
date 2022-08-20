@@ -15,6 +15,12 @@ Chapter 5, pp 123-172.
 
 Make sure you have Java and JavaFX installed. Some Java installations bundle JavaFX, but some do not.
 
+
+## Packages
+
+Download Simulator here: https://github.com/TECHPRASANT/co-simulator/releases/download/CO/CO.Simulator_Kist_Prashant.jar
+
+
 ## Simulator Examples:
 ###  Addition of two Number `X` + `Y`
 
