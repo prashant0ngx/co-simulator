@@ -1,0 +1,32 @@
+/a program to input two numbers
+/and display their sum
+//it sums unicode value of inputted data
+
+ORG 100
+BSA IN
+LDA SUM
+COF, SKO
+BUN COF
+OUT
+HLT
+
+IN, HEX 0
+FST, SKI
+BUN FST
+INP
+STA A
+OUT
+SCD, SKI
+BUN SCD
+INP
+STA B
+OUT
+ADD A
+STA SUM
+BUN IN I
+
+A, DEC 0
+B, DEC 0
+SUM, DEC 0
+
+END

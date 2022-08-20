@@ -1,0 +1,13 @@
+/Subroutine to add two numbers
+ORG 10
+BSA AD1
+STA T
+HLT
+A, DEC 5
+B, DEC 10
+T, DEC 0
+AD1, HEX 0
+LDA A
+ADD B
+BUN AD1 I
+END

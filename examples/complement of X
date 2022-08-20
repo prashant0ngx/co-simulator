@@ -1,0 +1,8 @@
+/Logical Complement of X
+LDA X
+CMA
+STA RESULT
+HLT
+
+X,HEX F0F0
+RESULT, DEC 0
