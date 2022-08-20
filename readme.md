@@ -289,10 +289,14 @@ END
 ```
 
 `RESULT`: <br>
-Input A: 5 <br>
-Input B: 10 <br>
-15
-
+Input A: 5 <br> 
+Input B: 4 <br>
+OUTR: i (hex 69)
+Note: The inputted value is converted to HEX unicode value of that... That way: 5 unicode is 35(HEX) and 4 unicode is 34 (HEX)
+<br>
+35+34 is 69 (HEX)
+So, OUTR  is i (69 Hex value)
+SUM = 69
 ## Contact
 
  © [Prashant Bhandari](https://github.com/techprahant)
