@@ -1,0 +1,24 @@
+<changelist name="Uncommitted_changes_before_Update_at_8_20_2022_5_56_AM_[Changes]" date="1660954286550" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_20_2022_5_56_AM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 8/20/2022 5:56 AM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="resources/rtl.pdf" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="resources/diagram.png" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="resources/instructions.png" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/toprashantbhandari/kist/Utilities.class" />
+    <option name="AFTER_PATH" value="target/classes/com/toprashantbhandari/kist/Utilities.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_20_2022_5_56_AM_[Changes]/Utilities.class" />
+  </binary>
+</changelist>
