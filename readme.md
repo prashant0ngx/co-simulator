@@ -2,7 +2,7 @@
 
 > An assembler and hardware simulator for the Basic Computer, a 16 bit computer.
 
-<img src="Capture.png">
+<img src="Capture.PNG">
 
 This is a JavaFX application that compiles assembly code for and runs a simulation of Computer as detailed in:
 
@@ -14,6 +14,12 @@ Chapter 5, pp 123-172.
 ## Usage
 
 Make sure you have Java and JavaFX installed. Some Java installations bundle JavaFX, but some do not.
+
+
+## Packages
+
+Download Simulator here: https://github.com/TECHPRASANT/co-simulator/releases/download/CO/CO.Simulator_Kist_Prashant.jar
+
 
 ## Simulator Examples:
 ###  Addition of two Number `X` + `Y`
